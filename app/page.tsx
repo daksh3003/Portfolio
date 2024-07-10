@@ -1,4 +1,4 @@
-import { FloatingNav } from "@/components/FloatinNav";
+import { FloatingNav } from "@/components/FloatingNav";
 import Grid from "@/components/Grid";
 import Hero from "@/components/Hero";
 import Image from "next/image";
