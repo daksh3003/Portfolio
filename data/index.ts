@@ -168,34 +168,40 @@ export const companies = [
     img: "/timechainlogo.svg",
     nameImg: "/timechain.svg",
   },
+  {
+    id: 6,
+    name: "Devtown",
+    img: "/devtownlogo.svg",
+    nameImg: "/devtown.svg",
+  },
 ];
 
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Frontend Developer Intern - Jivan Health",
+    desc: "Assisted in the development of a web-based platform using Next.JS, enhancing interactivity.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Blockchain Developer - Timechain Labs",
+    desc: "Developed and contributed to open source Web3 decentralised apps.",
     className: "md:col-span-2", 
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Project Intern- Goldman Sachs",
+    desc: "Served as a Governance Analyst, cracking the leaked passwords from the database.",
     className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Data Analytics and AI Intern-Edunet Foundation",
+    desc: "Completed courses under IBM SkillsBuild platform and developed machine learning projects.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
