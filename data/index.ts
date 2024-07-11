@@ -72,68 +72,68 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    title: "NewsToday",
+    des: "Your daily news web app in hand with news classified accross various categories. Integrated using News API and styles using bootstrap",
+    img: "/news.svg",
+    iconLists: ["/re.svg", "/bootstrap.svg", "/js.svg", "/node.svg", "/exjs.svg"],
+    link: "https://github.com/daksh3003/NewsToday",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    title: "BigMart Sales Predictor",
+    des: "Using MultiLinear Regression, predicted the sales of any big mart outlet based upon the given dataset. ",
+    img: "/bm.svg",
+    iconLists: ["/py.svg", "/ipynb.svg", "/colab.svg", "/pd.svg", "/np.svg"],
+    link: "/https://github.com/daksh3003/SalesAnalysis",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    title: "Ethos- An Ethereum transaction platform",
+    des: "Built using solidity on the Ethereum Blockchain, Ethos helps you to send ETH seamlessly and safely.",
+    img: "/ethos.svg",
+    iconLists: ["/re.svg", "/sol.svg", "/tail.svg", "/js.svg", "/ts.svg"],
+    link: "/https://github.com/daksh3003/Ethos",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    title: "Your Secret Diary",
+    des: "Developed a web app with fully integrated backend using No SQL. Allows users to create, save and edit their personal notes on the cloud.",
+    img: "/p2.svg",
+    iconLists: ["/react.svg", "/bootstrap.svg", "/js.svg", "/mongo.svg", "/node.svg"],
+    link: "https://github.com/daksh3003/Your_secret_diary",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Daksh is a really great guy to work with. He has extensive knowledge in his domain. He is very responsive and quick to respond. Overall I will highly recommend him.",
+    name: "Krish",
+    title: "CTO and Co-Founder at Jivan Health",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Daksh is a really great guy to work with. He has extensive knowledge in his domain. He is very responsive and quick to respond. Overall I will highly recommend him.",
+    name: "Krish",
+    title: "CTO and Co-Founder at Jivan Health",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Daksh is a really great guy to work with. He has extensive knowledge in his domain. He is very responsive and quick to respond. Overall I will highly recommend him.",
+    name: "Krish",
+    title: "CTO and Co-Founder at Jivan Health",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Daksh is a really great guy to work with. He has extensive knowledge in his domain. He is very responsive and quick to respond. Overall I will highly recommend him.",
+    name: "Krish",
+    title: "CTO and Co-Founder at Jivan Health",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Daksh is a really great guy to work with. He has extensive knowledge in his domain. He is very responsive and quick to respond. Overall I will highly recommend him.",
+    name: "Krish",
+    title: "CTO and Co-Founder at Jivan Health",
   },
 ];
 
