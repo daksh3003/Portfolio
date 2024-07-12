@@ -210,14 +210,12 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
+    go:"https://github.com/daksh3003",
     img: "/git.svg",
   },
   {
     id: 2,
-    img: "/twit.svg",
-  },
-  {
-    id: 3,
+    go:"https://www.linkedin.com/in/dakshpandey/",
     img: "/link.svg",
   },
 ];
