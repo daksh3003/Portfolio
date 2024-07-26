@@ -73,7 +73,7 @@ export const projects = [
   {
     id: 1,
     title: "NewsToday",
-    des: "Your daily news web app in hand with news classified accross various categories. Integrated using News API and styles using bootstrap",
+    des: "Your daily news web app in hand with news classified across various categories. Integrated using News API and styles using bootstrap",
     img: "/news.svg",
     iconLists: ["/re.svg", "/bootstrap.svg", "/js.svg", "/node.svg", "/exjs.svg"],
     link: "https://github.com/daksh3003/NewsToday",
